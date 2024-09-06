@@ -1,0 +1,11 @@
+.home-section{
+    padding: 10px;
+    border: 2px solid #09c;
+}
+h2{
+    color: #09c;
+}
+button{
+    padding: 5px;
+    background-color: tomato;
+}
